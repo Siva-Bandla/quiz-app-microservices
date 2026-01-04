@@ -21,7 +21,7 @@ A Spring Boot microservices application that allows admins to manage questions a
 
 ## Setup
 ```bash
-git clone https://github.com/username/quiz-microservices.git
+git clone https://github.com/Siva-Bandla/quiz-microservices.git
 cd quiz-microservices
 mvn spring-boot:run
 
